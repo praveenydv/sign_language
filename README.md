@@ -7,5 +7,5 @@ Sign languages are expressed through manual articulations in combination with no
 Sign languages are full-fledged natural languages with their own grammar and lexicon.
 It is used by deaf and dumb people.
 
-#Demo
-<img src="samples/sample_video.gif" width="50%" >
+# Demo
+<img src="samples/sample_video.gif" width="100%" >
